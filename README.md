@@ -1,5 +1,5 @@
 # PythonResource
-a hub with python materials, from primary to advanced level
+a hub with python materials, ranging from primary to advanced level
 
 # 初级
 * [简明Python](https://woodpecker.org.cn/abyteofpython_cn/chinese/)  

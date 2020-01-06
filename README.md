@@ -13,6 +13,7 @@ a hub with python materials, ranging from primary to advanced level
 
 # 高级 
 * Python Doc  
+* Python [教程](https://docs.python.org/zh-cn/3/tutorial/index.html)
 * PEP(python enhanced proposal)
 
 
